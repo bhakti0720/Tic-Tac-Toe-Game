@@ -1,8 +1,8 @@
 # Tic-Tac-Toe-Game With AI
-Overview
+#Overview
 This repository contains the source code for a classic Tic Tac Toe game implemented using the Minimax algorithm. The Minimax algorithm is a decision-making algorithm used in two-player games to determine the optimal move for a player assuming that the opponent also plays optimally.
 
-Features
+#Features
 Two Player Modes: Play against another human or the computer.
 Minimax AI: The computer player uses the Minimax algorithm to make optimal moves.
 Interactive UI: A simple and intuitive interface to play the game.
