@@ -11,4 +11,4 @@ Minimax AI: The computer player uses the Minimax algorithm to make optimal moves
 
 Interactive UI: A simple and intuitive interface to play the game.
 
-Unbeatable AI player : In this either AI is always wine or you might tie.
+Unbeatable AI player : In this either AI is always wine or you might get tie.
